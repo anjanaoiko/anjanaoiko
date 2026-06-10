@@ -4,20 +4,18 @@ I'm Anjana Sreelakshmi here!
 
 I am a data anlayst with background in Econ based in Ernakulam, India.
 
-I currently explore work with tools:Python, SQL, Tableau. I am curious about new tools in the data space.
-
 In this space you can find my academic as well as personal projects. Some are work in progress
-<!--
-**anjanaoiko/anjanaoiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tools & Tech I currently work with
+* Python
+* SQL
+* Tableau
+* R 
+* AWS cloud
+* JIRA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A bit more about me
+* Becoming a cat mom
+* Want to explore the data viz space
+* Wish to create useful and insightful content
+* I scribble and doodle my thoughts away
