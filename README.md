@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-## I'm Anjana Sreelakshmi here!
+# I'm Anjana Sreelakshmi here!
 
-## I am a data anlayst with background in Econ based in Ernakulam, India.
+# I am a data anlayst with background in Econ based in Ernakulam, India.
 
-## I currently explore work with tools:Python, SQL, Tableau. I am curious about new tools in the data space.
+# I currently explore work with tools:Python, SQL, Tableau. I am curious about new tools in the data space.
 
-## In this space you can find my academic as well as personal projects. Some are work in progress
+# In this space you can find my academic as well as personal projects. Some are work in progress
 <!--
 **anjanaoiko/anjanaoiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
