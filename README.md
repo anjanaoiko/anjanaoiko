@@ -23,4 +23,5 @@ In this space you can find my academic as well as personal projects. Some are wo
 ##Highlighted projects
 
 * [Kaggle projects](https://github.com/anjanaoiko/Kaggle-projects)
+
 This respository is a record of all the kaggle competitions and projects I have worked on as part of academic coursework/ self-study.
